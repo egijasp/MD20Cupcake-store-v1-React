@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0 -15px;
+    gap: 40px;
+    padding-top: 30px;
+}
